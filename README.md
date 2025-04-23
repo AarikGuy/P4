@@ -1,4 +1,4 @@
-# Makefile Project Template
+# P4
 
 Steps to configure, build, run, and test the project.
 
